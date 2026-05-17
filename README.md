@@ -1,2 +1,9 @@
-# lite-csv-analyzer-kit
-A simple csv analyzer project
+# Csv Analyzer
+
+A simple csv analyzer project.
+\n
+## Getting Started
+
+```bash
+python csv.py
+```
